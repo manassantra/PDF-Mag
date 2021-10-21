@@ -1,0 +1,10 @@
+button:hover {
+ background-color: white;
+ color: black !important;
+}
+
+img {
+    height: auto;
+    width: 38%;
+    margin: -15px -5px -15px -75px;
+}

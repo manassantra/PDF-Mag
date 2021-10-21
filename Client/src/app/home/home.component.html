@@ -1,0 +1,93 @@
+
+  <div class="wrapper" *ngIf="accountService.currentUser$ | async">
+    <!-- Sidebar  -->
+    <app-side-nav id="sidebar"></app-side-nav>
+  
+    <!-- Page Content  -->
+    <div id="content">
+      <div class="container mt-3 mb-5">
+        <div class="card">
+          <div class="card-header text-center">
+            <h5>Upload PDF</h5>
+          </div>
+          <div class="card-body">
+            <div class="row col-lg-12">
+              <div class="col-lg-5" (submit)="onSend()">
+                  <div class="form-group">
+                    <label>Select BU : <span class="text-danger">*</span></label>
+                    <select class="form-control form-control-sm" (change)="onProduct($event)">
+                      <option> -- Select BU -- </option>
+                      <option *ngFor="let li of buList" value="{{li.id}}">{{li.name}}</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Full Product Name : <span class="text-danger">*</span></label>
+                    <select class="form-control form-control-sm">
+                      <option> -- Select Product -- </option>
+                      <option *ngFor="let li of productList">{{li.name}}</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Zone Name : <span class="text-danger">*</span></label>
+                    <select class="form-control form-control-sm">
+                      <option> -- Select Zone -- </option>
+                      <option *ngFor="let li of zoneList">{{li.zName}}</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Edition : <span class="text-danger">*</span></label>
+                    <select class="form-control form-control-sm">
+                      <option *ngIf="!ediTion"> -- Select Edition -- </option>
+                      <option *ngIf="ediTion">{{ediTion}}</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Section Name : <span class="text-danger">*</span></label>
+                    <select class="form-control form-control-sm">
+                      <option> -- Select Section -- </option>
+                      <option *ngFor="let li of Section">{{li.name}}</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Downstream System : <span class="text-danger">*</span></label>
+                    <select class="form-control form-control-sm">
+                      <option> -- Select Downstream -- </option>
+                      <option *ngFor="let li of dwnSys">{{li.dwnSys}}</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label>Date : <span class="text-danger">*</span></label>
+                    <input class="form-control date" type="date" name="date" id="date" date-format="dd-mm-yyyy">
+                  </div>
+                  <div class="form-group">
+                    <label>Upload PDF : <span class="text-danger"> &nbsp;&nbsp;( *.PDF file only. )</span></label>
+                    <input class="form-control" accept=".pdf" name="file" type="file" (change)="onselectFile($event)" />
+                  </div>
+                  <div class="form-group">
+                    <label>Select Page # to Start Print : <span class="text-danger">*</span></label>
+                    <input type="number" class="form-control" placeholder="Enter page number">
+                  </div>
+              </div>
+              <div class="col-lg-7">
+                <ngx-extended-pdf-viewer *ngIf="url" class="pdf-viewer" [textLayer]="true" [showSidebarButton]="true" [zoom]="50" [src]="url" >
+                </ngx-extended-pdf-viewer>
+                <div class="container d-flex pdf mt-5" *ngIf="!url">
+                  <ngx-loading [show]="loading" [config]="{ backdropBorderRadius: '3px' }"></ngx-loading>
+                  <img [src]=localUrl />
+                </div> 
+              </div> 
+            </div>
+          </div>
+          <div class="row col-lg-12 m-2">
+            <div class="col-lg-2">
+              <button class="btn btn-danger btn-md" (click)="onRest()">Reset</button>
+            </div>
+            <div class="col-lg-2">
+              <button type="submit" class="btn btn-prpl btn-md">Send Pages</button>
+            </div>
+            <div class="col-lg-8"></div>
+          </div>
+        </div>
+      </div>    
+    </div>
+  </div>

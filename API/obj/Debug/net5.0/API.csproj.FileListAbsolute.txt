@@ -1,0 +1,192 @@
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\appsettings.json
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\API.exe
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\API.deps.json
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\API.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\ref\API.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\API.pdb
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Humanizer.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\ref\API.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.pdb
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Workspace\Build-an-app-with-ASPNET-Core-and-Angular-from-scratch\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\API\obj\Debug\net5.0\API.pdb
+D:\Project\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\Project\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Project\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Project\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Project\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\API\obj\Debug\net5.0\API.dll
+D:\Project\API\obj\Debug\net5.0\ref\API.dll
+D:\Project\API\bin\Debug\net5.0\appsettings.json
+D:\Project\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\API\bin\Debug\net5.0\API.exe
+D:\Project\API\bin\Debug\net5.0\API.deps.json
+D:\Project\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Project\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Project\API\bin\Debug\net5.0\API.dll
+D:\Project\API\bin\Debug\net5.0\ref\API.dll
+D:\Project\API\bin\Debug\net5.0\API.pdb
+D:\Project\API\bin\Debug\net5.0\Humanizer.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Project\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Project\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Project\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Project\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Project\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Project\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Project\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Project\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Project\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Project\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Project\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Project\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Project\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Project\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Project\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\PDF-Mag\API\bin\Debug\net5.0\appsettings.Development.json
+D:\PDF-Mag\API\bin\Debug\net5.0\appsettings.json
+D:\PDF-Mag\API\bin\Debug\net5.0\API.exe
+D:\PDF-Mag\API\bin\Debug\net5.0\API.deps.json
+D:\PDF-Mag\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\PDF-Mag\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\PDF-Mag\API\bin\Debug\net5.0\API.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\ref\API.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\API.pdb
+D:\PDF-Mag\API\bin\Debug\net5.0\Humanizer.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\PDF-Mag\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\PDF-Mag\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\PDF-Mag\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDF-Mag\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\PDF-Mag\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\PDF-Mag\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\PDF-Mag\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\PDF-Mag\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\PDF-Mag\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\PDF-Mag\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\PDF-Mag\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\PDF-Mag\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\PDF-Mag\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\PDF-Mag\API\obj\Debug\net5.0\API.dll
+D:\PDF-Mag\API\obj\Debug\net5.0\ref\API.dll
+D:\PDF-Mag\API\obj\Debug\net5.0\API.pdb
+D:\PDF-Mag\API\obj\Debug\net5.0\API.genruntimeconfig.cache

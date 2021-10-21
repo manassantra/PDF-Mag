@@ -1,0 +1,18 @@
+.img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #7386D5 !important;
+    border-radius: 50px 50px 50px 50px;
+}
+img {
+    margin-bottom: 1rem !important;
+}
+.btn-prpl {
+    background-color: #7386D5 !important ;
+    color: white;
+ }
+
+ .card {
+    box-shadow: 0 0 10px grey;
+    z-index: 2;
+ }

@@ -1,0 +1,174 @@
+<div class="wrapper" *ngIf="accountService.currentUser$ | async">
+  <!-- Sidebar  -->
+  <app-side-nav id="sidebar"></app-side-nav>
+
+  <!-- Page Content  -->
+  <div id="content">
+   <div class="container-fluid">
+
+    <!--   User List  -->
+    <div class="row">
+      <div class="card m-2 col-lg-10">
+        <div class="card-header row">
+          <div class="col-10">List of Users [{{userList.length}}]</div>
+          <div class="col-2">
+            <button type="button" class="btn btn-primary btn-sm btn-outline-light" data-bs-toggle="modal" data-bs-target="#exampleModal">
+              Add New User
+            </button>
+          </div>
+        </div>
+        <div class="card-body justify-content-center">
+          <table class="table table-hover" *ngIf="userList">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Username</th>
+                <th scope="col">User Role</th>
+                <th scope="col">Modified By</th>
+                <th scope="col">Modified Date/Time</th>
+                <th scope="col">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let li of userList; let i = index">
+                <th scope="row">{{i+1}} </th>
+                <td>{{li.userName | uppercase}}</td>
+                <td>{{li.roleName }}</td>
+                <td>{{li.modifiedBy }}</td>
+                <td>{{li.modifiedDate | date:'medium' }}</td>
+                <td>
+                  <button class="btn btn-sm btn-prpl m-2">
+                    <i class="bi bi-pencil-square"></i>
+                  </button>
+                  <button class="btn btn-sm btn-danger">
+                    <i class="bi bi-trash"></i>
+                  </button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!--   Role Details  -->
+
+    <div class="row">
+      <div class="card m-2 col-lg-10">
+        <div class="card-header row">
+          <div class="col-10">User Roles [{{roleList.length}}]</div>
+          <div class="col-2">
+            <button type="button" class="btn btn-primary btn-sm btn-outline-light" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+              Add New Role
+            </button>
+          </div>
+        </div>
+        <div class="card-body justify-content-center">
+          <table class="table table-hover" *ngIf="roleList">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Role Id</th>
+                <th scope="col">Role</th>
+                <th scope="col">Modified By</th>
+                <th scope="col">Modified Date/Time</th>
+                <th scope="col">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let li of roleList; let i = index">
+                <th scope="row">{{i+1}} </th>
+                <td>{{li.roleId }}</td>
+                <td>{{li.roleName | uppercase}}</td>
+                <td>{{li.modifiedBy }}</td>
+                <td>{{li.modifiedDate | date:'medium' }}</td>
+                <td>
+                  <button class="btn btn-sm btn-prpl m-2">
+                    <i class="bi bi-pencil-square"></i>
+                  </button>
+                  <button class="btn btn-sm btn-danger">
+                    <i class="bi bi-trash"></i>
+                  </button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+
+<!--  User Add Modal  -->
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <form class="modal-content" #registerForm="ngForm" (ngSubmit)="register()" autocomplete="off">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"><b>Add New User</b></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <div class="form-inline m-2">
+            <label class="m-1">User Name</label>
+            <input type="text" name="username" [(ngModel)]="model.username" class="form-control" placeholder="Enter username">
+          </div>
+          <div class="form-inline m-2">
+            <label class="m-1">Password</label>
+            <input type="password" name="password" [(ngModel)]="model.password" class="form-control" placeholder="Enter password">
+          </div>
+          <div class="form-inline m-2">
+            <label class="m-1">Role</label>
+            <input type="text" name="rolename" [(ngModel)]="model.rolename" class="form-control" placeholder="Enter role">
+          </div>
+          <div class="form-inline m-2">
+            <input type="hidden" name="modifiedby" [(ngModel)]="model.modifiedby" class="form-control" >
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer pull-right">
+          <button class="btn btn-prpl btn-sm m-2" type="submit">Add User</button>
+          <button class="btn btn-danger btn-sm m-2" type="button" data-bs-dismiss="modal">Cancel</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!--  User Modal End   -->
+<!--  Role Add Modal  -->
+
+<div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog">
+    <form class="modal-content" #registerForm="ngForm" (ngSubmit)="addrole()" autocomplete="off">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"><b>Add New Role</b></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <div class="form-inline m-2">
+            <label class="m-1">Role Id</label>
+            <input type="number" name="roleid" [(ngModel)]="model2.roleid" class="form-control" placeholder="Enter username">
+          </div>
+          <div class="form-inline m-2">
+            <label class="m-1">Role</label>
+            <input type="text" name="rolename" [(ngModel)]="model2.rolename" class="form-control" placeholder="Enter role">
+          </div>
+          <div class="form-inline m-2">
+            <input type="hidden" name="modifiedby" [(ngModel)]="model2.modifiedby" class="form-control" >
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer pull-right">
+          <button class="btn btn-prpl btn-sm m-2" type="submit">Add Role</button>
+          <button class="btn btn-danger btn-sm m-2" type="button" data-bs-dismiss="modal">Cancel</button>
+      </div>
+    </form>
+  </div>
+</div>
+    
+<!--  Role Modal End  -->
+
+   </div>
+  </div>
+</div>
